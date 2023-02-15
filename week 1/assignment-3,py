@@ -1,0 +1,8 @@
+#write a programme that displays a triangle
+print("       +      ") 
+print("      +++     ") 
+print("     +++++    ")
+print("    +++++++   ")
+
+
+                   
