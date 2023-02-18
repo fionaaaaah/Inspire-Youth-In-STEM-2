@@ -6,8 +6,8 @@ print("The second number is:",s_number)
 #variables in python
 f_name="fiona"
 s_name="njoki"
-print("the first name is fiona")
-print("the second name is njoki")
+print("the first name is",f_name)
+print("the second name is",s_name)
 #variables in python
 #characters-Alpha numericals(a b c....A B C....),special characters(@%&)
 History_grade = "A"

@@ -1,3 +1,10 @@
+#This is a single line comment
+#python program to illustrate numbers
+#Name: fiona
+#Email: muriithinfiona@gmail.com
+#Date : 17th Feb 2023
+#File : numbers.py
+
 numbers = []
 
 sum_num = 0

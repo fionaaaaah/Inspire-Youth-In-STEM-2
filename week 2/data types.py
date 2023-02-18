@@ -1,3 +1,10 @@
+#This is a single line comment
+#python program to illustrate data types 
+#Name: fiona
+#Email: muriithinfiona@gmail.com
+#Date : 16th Feb 2023
+#File : data types.py
+
 #floating vs non floating
 weight = 39.6 #kgs #decimal number
 maths_grade = 72 #non floating

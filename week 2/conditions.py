@@ -1,3 +1,10 @@
+#This is a single line comment
+#python program to illustrate conditions
+#Name: fiona
+#Email: muriithinfiona@gmail.com
+#Date : 17th Feb 2023
+#File : conditions.py
+
 age = 35
 gender = "male"
 
@@ -9,13 +16,13 @@ else:
 #compound / multiple conditions
 
 if((age>30) & (gender =="male")):
-    print("Jenga nyumba")
+    print("build a house")
 else:
-    print("wacha jokes")
+    print("enjoy your youth")
 
 fav_color = "grey"
 age = 22
 if(fav_color == "grey") | (age <= 20):
     print("Happy birthday to you")
 else:
-    print("we kauka")
+    print("no birthday for you")

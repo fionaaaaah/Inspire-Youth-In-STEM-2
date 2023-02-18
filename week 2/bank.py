@@ -1,3 +1,10 @@
+#This is a single line comment
+#python program to illustrate tax calculations
+#Name: fiona
+#Email: muriithinfiona@gmail.com
+#Date : 17th Feb 2023
+#File : bank.py
+
 #write a program that calculates 16% tax on income
 #ranging between 100k and 150k
 

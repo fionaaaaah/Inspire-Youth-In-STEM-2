@@ -1,3 +1,10 @@
+#This is a single line comment
+#python program to illustrate lists
+#Name: fiona
+#Email: muriithinfiona@gmail.com
+#Date : 14th Feb 2023
+#File : list.py
+
 names=("Samara","Fiona","David")
 #accessing names on a list
 print(names)

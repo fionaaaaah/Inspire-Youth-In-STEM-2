@@ -1,3 +1,10 @@
+#This is a single line comment
+#python program to illustrate odd and even numbers
+#Name: fiona
+#Email: muriithinfiona@gmail.com
+#Date : 17th Feb 2023
+#File :odd even.py
+
 '''
 number = 0
 if (number%2 == 0):

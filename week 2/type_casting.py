@@ -1,3 +1,10 @@
+#This is a single line comment
+#python program to illustrate type casting
+#Name: fiona
+#Email: muriithinfiona@gmail.com
+#Date : 17th Feb 2023
+#File : type_casting.py
+
 # height = 34.78
 
 # #converting to an integer

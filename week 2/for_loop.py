@@ -1,3 +1,10 @@
+#This is a single line comment
+#python program to illustrate for loops
+#Name: fiona
+#Email: muriithinfiona@gmail.com
+#Date : 14th Feb 2023
+#File : for_loop.py
+
 for i in range(0,7):
     print(i)
 
