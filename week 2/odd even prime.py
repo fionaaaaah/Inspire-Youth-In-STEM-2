@@ -30,7 +30,7 @@ for even_numbers in range(0,102):
     if(even_numbers%2 ==0):
         print(even_numbers)
 '''
- 
+'''
 S = 1 
 E = 100
 for num in range(S, E+1):
@@ -39,4 +39,14 @@ for num in range(S, E+1):
             if(num % i==0):
                 break
             else:
-                print(num, end=" ")
+                print(num, end=" )
+'''
+
+print(" prime numbers from 1 - 100 are ... ")
+for x in range(1,100 + 1):
+    if x > 0:
+        for i in range ( 2,x ):
+            if x%i ==0:
+                break
+        else:
+            print(x)
