@@ -10,10 +10,13 @@ while(True):
 
 age = 24
 gender = "male"
-if(age< 25 & gender = "male"):
-    if(weight > 75 | height = 125):
+weight = 56
+height = 88
+
+if(age< 25) & (gender == "male"):
+    if (weight > 75 | height < 125):
         print("You are obese")
-    elif:
+    else:
         print("You are healthy")
-elif:
+else:
     print("You are just funny")
