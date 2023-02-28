@@ -43,4 +43,11 @@ print(friend["Hobby"])
 print(friend["Course"])
 print(friend["Height"])
 print(friend["Food"])
+
 #4.Sets
+my_fruits = {"bananas","apples","oranges"}
+for fruit in my_fruits:
+    print(fruit)
+
+print(type(my_fruits))
+print(len(my_fruits))
