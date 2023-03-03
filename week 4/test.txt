@@ -1,0 +1,3 @@
+Hello world from Mary and John
+
+Printing on the file
