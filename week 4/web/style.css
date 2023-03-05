@@ -1,3 +1,11 @@
 *{
     background-color: rgb(214, 142, 187);
 }
+
+.hi{
+    font-size:40px;
+    color:rgb(8, 235, 57);
+    align-self: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    max-height: 30px;
+}

@@ -12,7 +12,7 @@ friends = ["Samara","Joy","David"]
 #add ---> append(),extend()
 #remove ---> pop()
 
-students = ["Loreen","clive"]
+students = ["Loreen","Clive"]
 friends.extend(students)
 friends.append("June")
 friends.sort()
@@ -51,3 +51,7 @@ for fruit in my_fruits:
 
 print(type(my_fruits))
 print(len(my_fruits))
+
+#ordered - similar data types
+
+#non-ordered - different data types
